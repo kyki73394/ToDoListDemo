@@ -39,7 +39,6 @@
 		BDCD594D2A53C7D4007F23A0 = {
 			isa = PBXGroup;
 			children = (
-				BDCD596B2A53D0F4007F23A0 /* ToDoItem.swift */,
 				BDCD59582A53C7D4007F23A0 /* ToDoListDemo */,
 				BDCD59572A53C7D4007F23A0 /* Products */,
 			);
@@ -56,6 +55,7 @@
 		BDCD59582A53C7D4007F23A0 /* ToDoListDemo */ = {
 			isa = PBXGroup;
 			children = (
+				BDCD596B2A53D0F4007F23A0 /* ToDoItem.swift */,
 				BDCD59592A53C7D4007F23A0 /* ToDoListDemoApp.swift */,
 				BDCD595B2A53C7D4007F23A0 /* ContentView.swift */,
 				BDCD596D2A53D2D4007F23A0 /* NewToDoView.swift */,
